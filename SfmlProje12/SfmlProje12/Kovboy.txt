@@ -1,0 +1,6 @@
+aktifAnimasyon idle
+dead	images/Dead__000.png	10
+jump	images/Jump__000.png	10
+idle	images/Idle__000.png	10
+run		images/Run__000.png		10
+slide	images/Slide__000.png	10
